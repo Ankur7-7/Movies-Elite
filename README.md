@@ -1,8 +1,11 @@
 # Netflix Clone built using React 
 
+## Description
+This is a replica of Netflix website made using React(custom hooks.
+
 ## Features
 
-<li>	There are 3 different pages: Home-Page, sign in and sign up.
+<li>	There are 5 different pages: Home-Page, sign in, sign up and browse page.
 
 <li>	Authentication has been done on all pages using the Firebase.
 
