@@ -1,4 +1,4 @@
-# Netflix Home-Page built using React 
+# Netflix Clone built using React 
 
 ## Features
 
