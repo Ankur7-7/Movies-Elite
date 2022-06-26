@@ -1,7 +1,7 @@
 # Netflix Clone built using React 
 
 ## Description
-This is a replica of Netflix website made using React(custom hooks.
+This is a replica of Netflix website made using React.
 
 ## Features
 
