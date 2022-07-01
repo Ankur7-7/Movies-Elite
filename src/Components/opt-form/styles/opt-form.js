@@ -10,7 +10,7 @@ export const Container = styled.div`
     flex-direction: column;
     align-items: center;
   }
-`;
+`;  
 
 export const Input = styled.input`
   max-width: 450px;

@@ -11,6 +11,6 @@ export default function Browse(){
 
 
     return(
-        <BrowseContainer slides={slides}/>
+        <BrowseContainer slides={slides} series={series} films={films}/>
     );
 }
