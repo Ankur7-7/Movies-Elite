@@ -1,7 +1,7 @@
-# Netflix Clone built using React 
+# Movies-Elite website built using React 
 
 ## Description
-This is a replica of Netflix website made using React.
+This is a Movie Directory Website made for the collection of the personalised movies and shows for the users.
 
 ## Features
 
